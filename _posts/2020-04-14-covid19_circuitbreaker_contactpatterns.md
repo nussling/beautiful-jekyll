@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Impact of Singapore’s COVID-19 ‘circuit breaker’ measures:"
-subtitle: "Contact patterns and visits to public places"
+title: "Singapore COVID-19 'circuit breaker'"
+subtitle: "Impact on contact patterns and visits to public places"
+author: Clarence Ta,
 date: 2020-04-14
-author: Clarence Tam
 categories: COVID-19
-tags: COVID-19, coronavirus, Singapore, circuit breaker
+tags: Singapore, circuit breaker, coronavirus, pandemic, social distancing, contact patterns
 ---
+
 
 Background
 ----------
@@ -21,12 +22,12 @@ spaces, and people were encouraged to stay at home as much as possible.
 
 In this analysis, we report on contact patterns and visits to public
 spaces among the Singapore population since the start of the ‘circuit
-breaker’ period. The data are based on an online survey of 1030 people
+breaker’ period. The data are based on an online survey of 1032 people
 conducted between the evening of 9 April 2020 and the evening of 14
 April 2020. Details of the survey methodology are given at the end of
 the report.
 
-Visits to public places 
+Visits to public places
 -----------------------
 
 In the past week, respondents reported an
@@ -252,7 +253,7 @@ Household
 0.57
 </td>
 <td style="text-align:right;">
-1.13
+1.12
 </td>
 <td style="text-align:right;">
 0
@@ -281,7 +282,7 @@ Household
 0.59
 </td>
 <td style="text-align:right;">
-2.17
+2.16
 </td>
 <td style="text-align:right;">
 0
@@ -336,7 +337,7 @@ Non-household
 19-44 years
 </td>
 <td style="text-align:right;">
-0.72
+0.71
 </td>
 <td style="text-align:right;">
 5.32
@@ -368,7 +369,7 @@ Non-household
 0.42
 </td>
 <td style="text-align:right;">
-2.49
+2.48
 </td>
 <td style="text-align:right;">
 0
@@ -489,16 +490,16 @@ court - Place of worship - Shopping mall - Playground - Park
 Participation
 -------------
 
-A total of XXX completed surveys were collected. Survey completion was
-XX% (based on the number of completed surveys out of users who initiated
+A total of 1067 completed surveys were collected. Survey completion was
+80.1% (based on the number of completed surveys out of users who initiated
 the survey).
 
-Respondents who reported not currently residing in Singapore (n = 5) and
+Respondents who reported not currently residing in Singapore (n = 7) and
 individuals aged \<21 years or with implausible or missing age were
-excluded from the analysis (n = 20).
+excluded from the analysis (n = 28).
 
-Of the remaining 830 respondents, 553 (67%) were female and 255 (31%)
-male; information on gender was missing for 20 (2.4%) individuals.
+Of the remaining 1032 respondents, 671 (65%) were female and 337 (32.7%)
+male; information on gender was missing for 24 (2.3%) individuals.
 Respondent demographics are presented in Table 3.
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
@@ -510,7 +511,7 @@ Table 3: Demographic characteristics
 <th style="text-align:left;">
 </th>
 <th style="text-align:left;">
-Overall (N=1058)
+Overall (N=1060)
 </th>
 </tr>
 </thead>
@@ -537,7 +538,7 @@ gender
     -   Male
         </td>
         <td style="text-align:left;">
-        344 (32.7%)
+        346 (32.8%)
         </td>
         </tr>
         <tr>
@@ -546,7 +547,7 @@ gender
         -   Female
             </td>
             <td style="text-align:left;">
-            683 (64.9%)
+            683 (64.7%)
             </td>
             </tr>
             <tr>
@@ -589,7 +590,7 @@ gender
                         -   Chinese
                             </td>
                             <td style="text-align:left;">
-                            788 (75.0%)
+                            790 (75.0%)
                             </td>
                             </tr>
                             <tr>
@@ -671,7 +672,7 @@ gender
                                                             (O/N Level)
                                                             </td>
                                                             <td style="text-align:left;">
-                                                            138 (13.1%)
+                                                            139 (13.2%)
                                                             </td>
                                                             </tr>
                                                             <tr>
@@ -681,8 +682,8 @@ gender
                                                                 Level/Polytechnic/Diploma
                                                                 </td>
                                                                 <td style="text-align:left;">
-                                                                245
-                                                                (23.3%)
+                                                                246
+                                                                (23.4%)
                                                                 </td>
                                                                 </tr>
                                                                 <tr>
@@ -702,7 +703,7 @@ gender
                                                                         </td>
                                                                         <td style="text-align:left;">
                                                                         601
-                                                                        (57.2%)
+                                                                        (57.1%)
                                                                         </td>
                                                                         </tr>
                                                                         <tr>
@@ -741,7 +742,7 @@ gender
                                                                                     married
                                                                                     </td>
                                                                                     <td style="text-align:left;">
-                                                                                    567
+                                                                                    568
                                                                                     (53.8%)
                                                                                     </td>
                                                                                     </tr>
@@ -762,7 +763,7 @@ gender
                                                                                             married
                                                                                             </td>
                                                                                             <td style="text-align:left;">
-                                                                                            341
+                                                                                            342
                                                                                             (32.4%)
                                                                                             </td>
                                                                                             </tr>
@@ -838,7 +839,7 @@ gender
                                                                                                                     HDB
                                                                                                                     </td>
                                                                                                                     <td style="text-align:left;">
-                                                                                                                    403
+                                                                                                                    404
                                                                                                                     (38.2%)
                                                                                                                     </td>
                                                                                                                     </tr>
@@ -861,7 +862,7 @@ gender
                                                                                                                             housing
                                                                                                                             </td>
                                                                                                                             <td style="text-align:left;">
-                                                                                                                            297
+                                                                                                                            298
                                                                                                                             (28.2%)
                                                                                                                             </td>
                                                                                                                             </tr>
@@ -934,8 +935,8 @@ gender
                                                                                                                                                     $3,999
                                                                                                                                                     </td>
                                                                                                                                                     <td style="text-align:left;">
-                                                                                                                                                    151
-                                                                                                                                                    (14.4%)
+                                                                                                                                                    152
+                                                                                                                                                    (14.5%)
                                                                                                                                                     </td>
                                                                                                                                                     </tr>
                                                                                                                                                     <tr>
@@ -945,7 +946,7 @@ gender
                                                                                                                                                         $5,999
                                                                                                                                                         </td>
                                                                                                                                                         <td style="text-align:left;">
-                                                                                                                                                        157
+                                                                                                                                                        158
                                                                                                                                                         (15.0%)
                                                                                                                                                         </td>
                                                                                                                                                         </tr>
@@ -981,7 +982,7 @@ gender
                                                                                                                                                                     </td>
                                                                                                                                                                     <td style="text-align:left;">
                                                                                                                                                                     226
-                                                                                                                                                                    (21.6%)
+                                                                                                                                                                    (21.5%)
                                                                                                                                                                     </td>
                                                                                                                                                                     </tr>
                                                                                                                                                                     </tbody>
