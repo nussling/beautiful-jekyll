@@ -2,7 +2,7 @@
 layout: post
 title: "Singapore COVID-19 'circuit breaker'"
 subtitle: "Impact on contact patterns and visits to public places"
-author: Clarence Ta,
+author: Clarence Tam
 date: 2020-04-14
 categories: COVID-19
 tags: Singapore, circuit breaker, coronavirus, pandemic, social distancing, contact patterns
