@@ -26,7 +26,10 @@ conducted between the evening of 9 April 2020 and the evening of 14
 April 2020. Details of the survey methodology are given at the end of
 the report.
 
-\#\#Visits to public places In the past week, respondents reported an
+Visits to public places 
+-----------------------
+
+In the past week, respondents reported an
 average of 1.9 visits to supermarkets, grocery stores or wet markets and
 1.6 visits to hawker centres, coffee shops or food courts. All other
 places, including shopping malls and parks were visited less than once
@@ -483,7 +486,8 @@ court - Place of worship - Shopping mall - Playground - Park
     Swee Hock School of Public Health, National University of Singapore
     (SPH-003; SPH-004).
 
-### Participation
+Participation
+-------------
 
 A total of XXX completed surveys were collected. Survey completion was
 XX% (based on the number of completed surveys out of users who initiated
