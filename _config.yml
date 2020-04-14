@@ -15,6 +15,7 @@ description: Infectious Diseases Research at the Saw Swee Hock School of Public 
 
 # baseurl should be an empty string
 #baseurl: "/blog_DA"
+baseurl: ""
 
 # --- Navigation bar options --- #
 
