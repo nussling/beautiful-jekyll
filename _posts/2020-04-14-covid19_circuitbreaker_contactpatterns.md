@@ -8,7 +8,6 @@ categories: COVID-19
 tags: Singapore, circuit breaker, coronavirus, pandemic, social distancing, contact patterns
 ---
 
-
 Background
 ----------
 
@@ -27,9 +26,9 @@ conducted between the evening of 9 April 2020 and the evening of 14
 April 2020. Details of the survey methodology are given at the end of
 the report.
 
-Visits to public places
------------------------
 
+Visits to public places 
+-----------------------
 In the past week, respondents reported an
 average of 1.9 visits to supermarkets, grocery stores or wet markets and
 1.6 visits to hawker centres, coffee shops or food courts. All other
@@ -82,10 +81,10 @@ Supermarket/wet market
 Restaurant/bar/cafe
 </td>
 <td style="text-align:right;">
-NA
+0.3
 </td>
 <td style="text-align:right;">
-NA
+0
 </td>
 <td style="text-align:right;">
 0
@@ -99,10 +98,10 @@ NA
 Hawker centre/food court
 </td>
 <td style="text-align:right;">
-NA
+1.6
 </td>
 <td style="text-align:right;">
-NA
+1
 </td>
 <td style="text-align:right;">
 0
@@ -116,10 +115,10 @@ NA
 Place of worship
 </td>
 <td style="text-align:right;">
-NA
+0.0
 </td>
 <td style="text-align:right;">
-NA
+0
 </td>
 <td style="text-align:right;">
 0
@@ -133,10 +132,10 @@ NA
 Shopping mall
 </td>
 <td style="text-align:right;">
-NA
+0.7
 </td>
 <td style="text-align:right;">
-NA
+0
 </td>
 <td style="text-align:right;">
 0
@@ -150,10 +149,10 @@ NA
 Playground
 </td>
 <td style="text-align:right;">
-NA
+0.0
 </td>
 <td style="text-align:right;">
-NA
+0
 </td>
 <td style="text-align:right;">
 0
@@ -167,10 +166,10 @@ NA
 Park
 </td>
 <td style="text-align:right;">
-NA
+0.7
 </td>
 <td style="text-align:right;">
-NA
+0
 </td>
 <td style="text-align:right;">
 0
@@ -187,9 +186,9 @@ Men in all age groups tended to visit parks and food retailers
 supermarkets/grocery stores/wet markets) more commonly than women
 (Figure 1).
 
-![Figure 1: Percentage of male and female respondents visiting different
-locations by number of visits in the past week. Darker shading indicates
-a higher number of
+![Figure 1 \- Percentage of male and female respondents visiting
+different locations by number of visits in the past week. Darker shading
+indicates a higher number of
 participants](/assets/2020-04-14-covid19_circuitbreaker_contactpatterns_files/figure-markdown_github/unnamed-chunk-4-1.png)
 
 For visits to food retailers, we did not specifically ask whether food
@@ -421,32 +420,37 @@ Non-household
 
 Figure 2 shows a matrix of average daily contacts between age groups.
 Respondents aged 65+ years reported the highest number of contacts with
-individuals in the same age group within the household (\~2 per day), as
-well as individuals aged 19-44 years (\~1.3 per day, likely indicative
-of inter-generational contact). Younger respondents aged 19-44 years
-reported an average of 1.1 contacts with individuals within their
-household, and 1.3 contacts with individuals outside their household.
+individuals in the same age group within the household (1.8 per day), as
+well as individuals aged 19-44 years (1.2 per day, likely indicative of
+inter-generational contact). Younger respondents aged 19-44 years
+reported an average of 1.2 contacts with individuals in the same age
+group within their household, and 1.6 contacts with individuals outside
+their household.
 
-![Figure 2: Mean daily contacts with individuals of different age groups
-in the past 24 hours, as reported by survey
+![Figure 2 \- Mean daily contacts with individuals of different age
+groups in the past 24 hours, as reported by survey
 respondents.](/assets/2020-04-14-covid19_circuitbreaker_contactpatterns_files/figure-markdown_github/unnamed-chunk-6-1.png)
 
 There were marked differences in contact patterns by respondent gender
 (Figure 3). Female respondents aged 65+ years reported more contacts
-with other individuals of the same age group within their household (\~3
-contacts per day on average), while male respondents aged 19-44 years
-reported more contacts with individuals in the same age group outside
-their household (\~2.2 contacts per day on average).
+with other individuals of the same age group within their household
+(\~2.6 contacts per day on average), while male respondents aged 19-44
+years reported more contacts with individuals in the same age group
+outside their household (\~2.6 contacts per day on average).
+
+![Figure 3 \- Mean daily contacts with individuals of different age
+groups in the past 24 hours, as reported by male and female survey
+respondents.](/assets/2020-04-14-covid19_circuitbreaker_contactpatterns_files/figure-markdown_github/unnamed-chunk-7-1.png)
 
 It should be noted that for contacts with individuals outside the
 household, we did not specifically ask respondents whether these
-occurred as part of work or other activities. However, initial analysis
-by work status suggests that these largely correspond to contacts for
+occurred as part of work or other activities. However, analysis by work
+status suggests that these largely correspond to contacts for
 respondents whose job cannot be done remotely.
 
-![Figure 3: Mean daily contacts with individuals of different age groups
-in the past 24 hours, as reported by male and female survey
-respondents.](/assets/2020-04-14-covid19_circuitbreaker_contactpatterns_files/figure-markdown_github/unnamed-chunk-7-1.png)
+![Figure 4 \- Mean daily contacts with individuals of different age
+groups in the past 24 hours, according to whether respondents can work
+remotely.](/assets/2020-04-14-covid19_circuitbreaker_contactpatterns_files/figure-markdown_github/unnamed-chunk-8-1.png)
 
 Survey methodology
 ------------------
@@ -491,7 +495,7 @@ Participation
 -------------
 
 A total of 1067 completed surveys were collected. Survey completion was
-80.1% (based on the number of completed surveys out of users who initiated
+XX% (based on the number of completed surveys out of users who initiated
 the survey).
 
 Respondents who reported not currently residing in Singapore (n = 7) and
