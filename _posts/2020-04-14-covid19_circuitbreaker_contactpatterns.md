@@ -190,7 +190,7 @@ supermarkets/grocery stores/wet markets) more commonly than women
 ![Figure 1: Percentage of male and female respondents visiting different
 locations by number of visits in the past week. Darker shading indicates
 a higher number of
-participants](2020-04-14-covid19_circuitbreaker_contactpatterns_files/figure-markdown_github/unnamed-chunk-4-1.png)
+participants](/assets/2020-04-14-covid19_circuitbreaker_contactpatterns_files/figure-markdown_github/unnamed-chunk-4-1.png)
 
 For visits to food retailers, we did not specifically ask whether food
 was consumed within the premises.
@@ -429,7 +429,7 @@ household, and 1.3 contacts with individuals outside their household.
 
 ![Figure 2: Mean daily contacts with individuals of different age groups
 in the past 24 hours, as reported by survey
-respondents.](2020-04-14-covid19_circuitbreaker_contactpatterns_files/figure-markdown_github/unnamed-chunk-6-1.png)
+respondents.](/assets/2020-04-14-covid19_circuitbreaker_contactpatterns_files/figure-markdown_github/unnamed-chunk-6-1.png)
 
 There were marked differences in contact patterns by respondent gender
 (Figure 3). Female respondents aged 65+ years reported more contacts
@@ -446,7 +446,7 @@ respondents whose job cannot be done remotely.
 
 ![Figure 3: Mean daily contacts with individuals of different age groups
 in the past 24 hours, as reported by male and female survey
-respondents.](2020-04-14-covid19_circuitbreaker_contactpatterns_files/figure-markdown_github/unnamed-chunk-7-1.png)
+respondents.](/assets/2020-04-14-covid19_circuitbreaker_contactpatterns_files/figure-markdown_github/unnamed-chunk-7-1.png)
 
 Survey methodology
 ------------------
