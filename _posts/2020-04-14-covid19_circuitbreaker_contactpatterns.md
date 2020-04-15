@@ -186,6 +186,12 @@ Men in all age groups tended to visit parks and food retailers
 supermarkets/grocery stores/wet markets) more commonly than women
 (Figure 1).
 
+<p><img src="/assets/2020-04-14-covid19_circuitbreaker_contactpatterns_files/figure-markdown_github/unnamed-chunk-4-1.png" alt="Figure 2 - Mean daily contacts with individuals of different age
+groups in the past 24 hours, as reported by survey
+respondents." /><figcaption>"Figure 2 - Mean daily contacts with individuals of different age
+groups in the past 24 hours, as reported by survey
+    respondents."</figcaption></p>
+
 ![Figure 1 \- Percentage of male and female respondents visiting
 different locations by number of visits in the past week. Darker shading
 indicates a higher number of
