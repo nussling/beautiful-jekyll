@@ -26,14 +26,14 @@ conducted between the evening of 9 April 2020 and the evening of 14
 April 2020. Details of the survey methodology are given at the end of
 the report.
 
-
-Visits to public places 
+Visits to public places
 -----------------------
-In the past week, respondents reported an
-average of 1.9 visits to supermarkets, grocery stores or wet markets and
-1.6 visits to hawker centres, coffee shops or food courts. All other
-places, including shopping malls and parks were visited less than once
-on average (Table 1).
+
+In the past week, respondents reported an average of 1.9 visits to
+supermarkets, grocery stores or wet markets and 1.6 visits to hawker
+centres, coffee shops or food courts. All other places, including
+shopping malls and parks were visited less than once on average (Table
+1).
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <caption>
@@ -506,7 +506,7 @@ Table 3: Demographic characteristics
 <th style="text-align:left;">
 </th>
 <th style="text-align:left;">
-Overall (N=1060)
+Overall (N=1032)
 </th>
 </tr>
 </thead>
@@ -524,7 +524,7 @@ gender
 -   N-Miss
     </td>
     <td style="text-align:left;">
-    5
+    2
     </td>
     </tr>
     <tr>
@@ -533,7 +533,7 @@ gender
     -   Male
         </td>
         <td style="text-align:left;">
-        346 (32.8%)
+        337 (32.7%)
         </td>
         </tr>
         <tr>
@@ -542,7 +542,7 @@ gender
         -   Female
             </td>
             <td style="text-align:left;">
-            683 (64.7%)
+            671 (65.1%)
             </td>
             </tr>
             <tr>
@@ -551,7 +551,7 @@ gender
             -   Non-binary
                 </td>
                 <td style="text-align:left;">
-                1 (0.1%)
+                0 (0.0%)
                 </td>
                 </tr>
                 <tr>
@@ -560,7 +560,7 @@ gender
                 -   Prefer not to say
                     </td>
                     <td style="text-align:left;">
-                    25 (2.4%)
+                    22 (2.1%)
                     </td>
                     </tr>
                     <tr>
@@ -576,7 +576,7 @@ gender
                     -   N-Miss
                         </td>
                         <td style="text-align:left;">
-                        7
+                        4
                         </td>
                         </tr>
                         <tr>
@@ -585,7 +585,7 @@ gender
                         -   Chinese
                             </td>
                             <td style="text-align:left;">
-                            790 (75.0%)
+                            771 (75.0%)
                             </td>
                             </tr>
                             <tr>
@@ -594,7 +594,7 @@ gender
                             -   Malay
                                 </td>
                                 <td style="text-align:left;">
-                                58 (5.5%)
+                                57 (5.5%)
                                 </td>
                                 </tr>
                                 <tr>
@@ -603,7 +603,7 @@ gender
                                 -   Indian
                                     </td>
                                     <td style="text-align:left;">
-                                    67 (6.4%)
+                                    67 (6.5%)
                                     </td>
                                     </tr>
                                     <tr>
@@ -612,7 +612,7 @@ gender
                                     -   Other
                                         </td>
                                         <td style="text-align:left;">
-                                        107 (10.2%)
+                                        104 (10.1%)
                                         </td>
                                         </tr>
                                         <tr>
@@ -621,7 +621,7 @@ gender
                                         -   Prefer not to say
                                             </td>
                                             <td style="text-align:left;">
-                                            31 (2.9%)
+                                            29 (2.8%)
                                             </td>
                                             </tr>
                                             <tr>
@@ -637,7 +637,7 @@ gender
                                             -   N-Miss
                                                 </td>
                                                 <td style="text-align:left;">
-                                                7
+                                                4
                                                 </td>
                                                 </tr>
                                                 <tr>
@@ -667,7 +667,7 @@ gender
                                                             (O/N Level)
                                                             </td>
                                                             <td style="text-align:left;">
-                                                            139 (13.2%)
+                                                            134 (13.0%)
                                                             </td>
                                                             </tr>
                                                             <tr>
@@ -677,8 +677,8 @@ gender
                                                                 Level/Polytechnic/Diploma
                                                                 </td>
                                                                 <td style="text-align:left;">
-                                                                246
-                                                                (23.4%)
+                                                                234
+                                                                (22.8%)
                                                                 </td>
                                                                 </tr>
                                                                 <tr>
@@ -697,8 +697,8 @@ gender
                                                                     -   University
                                                                         </td>
                                                                         <td style="text-align:left;">
-                                                                        601
-                                                                        (57.1%)
+                                                                        596
+                                                                        (58.0%)
                                                                         </td>
                                                                         </tr>
                                                                         <tr>
@@ -710,8 +710,8 @@ gender
                                                                             say
                                                                             </td>
                                                                             <td style="text-align:left;">
-                                                                            35
-                                                                            (3.3%)
+                                                                            32
+                                                                            (3.1%)
                                                                             </td>
                                                                             </tr>
                                                                             <tr>
@@ -727,7 +727,7 @@ gender
                                                                             -   N-Miss
                                                                                 </td>
                                                                                 <td style="text-align:left;">
-                                                                                5
+                                                                                2
                                                                                 </td>
                                                                                 </tr>
                                                                                 <tr>
@@ -737,8 +737,8 @@ gender
                                                                                     married
                                                                                     </td>
                                                                                     <td style="text-align:left;">
-                                                                                    568
-                                                                                    (53.8%)
+                                                                                    565
+                                                                                    (54.9%)
                                                                                     </td>
                                                                                     </tr>
                                                                                     <tr>
@@ -748,7 +748,7 @@ gender
                                                                                         </td>
                                                                                         <td style="text-align:left;">
                                                                                         59
-                                                                                        (5.6%)
+                                                                                        (5.7%)
                                                                                         </td>
                                                                                         </tr>
                                                                                         <tr>
@@ -758,8 +758,8 @@ gender
                                                                                             married
                                                                                             </td>
                                                                                             <td style="text-align:left;">
-                                                                                            342
-                                                                                            (32.4%)
+                                                                                            325
+                                                                                            (31.6%)
                                                                                             </td>
                                                                                             </tr>
                                                                                             <tr>
@@ -772,7 +772,7 @@ gender
                                                                                                 </td>
                                                                                                 <td style="text-align:left;">
                                                                                                 14
-                                                                                                (1.3%)
+                                                                                                (1.4%)
                                                                                                 </td>
                                                                                                 </tr>
                                                                                                 <tr>
@@ -782,7 +782,7 @@ gender
                                                                                                     </td>
                                                                                                     <td style="text-align:left;">
                                                                                                     13
-                                                                                                    (1.2%)
+                                                                                                    (1.3%)
                                                                                                     </td>
                                                                                                     </tr>
                                                                                                     <tr>
@@ -794,8 +794,8 @@ gender
                                                                                                         say
                                                                                                         </td>
                                                                                                         <td style="text-align:left;">
-                                                                                                        59
-                                                                                                        (5.6%)
+                                                                                                        54
+                                                                                                        (5.2%)
                                                                                                         </td>
                                                                                                         </tr>
                                                                                                         <tr>
@@ -808,177 +808,168 @@ gender
                                                                                                         <tr>
                                                                                                         <td style="text-align:left;">
 
-                                                                                                        -   N-Miss
+                                                                                                        -   1-2
+                                                                                                            room
+                                                                                                            HDB
                                                                                                             </td>
                                                                                                             <td style="text-align:left;">
-                                                                                                            3
+                                                                                                            28
+                                                                                                            (2.7%)
                                                                                                             </td>
                                                                                                             </tr>
                                                                                                             <tr>
                                                                                                             <td style="text-align:left;">
 
-                                                                                                            -   1-2
+                                                                                                            -   3-4
                                                                                                                 room
                                                                                                                 HDB
                                                                                                                 </td>
                                                                                                                 <td style="text-align:left;">
-                                                                                                                29
-                                                                                                                (2.7%)
+                                                                                                                397
+                                                                                                                (38.5%)
                                                                                                                 </td>
                                                                                                                 </tr>
                                                                                                                 <tr>
                                                                                                                 <td style="text-align:left;">
 
-                                                                                                                -   3-4
-                                                                                                                    room
-                                                                                                                    HDB
+                                                                                                                -   5-room
+                                                                                                                    HDB/executive
+                                                                                                                    flat
                                                                                                                     </td>
                                                                                                                     <td style="text-align:left;">
-                                                                                                                    404
-                                                                                                                    (38.2%)
+                                                                                                                    260
+                                                                                                                    (25.2%)
                                                                                                                     </td>
                                                                                                                     </tr>
                                                                                                                     <tr>
                                                                                                                     <td style="text-align:left;">
 
-                                                                                                                    -   5-room
-                                                                                                                        HDB/executive
-                                                                                                                        flat
+                                                                                                                    -   Private
+                                                                                                                        housing
                                                                                                                         </td>
                                                                                                                         <td style="text-align:left;">
-                                                                                                                        268
-                                                                                                                        (25.4%)
+                                                                                                                        292
+                                                                                                                        (28.3%)
                                                                                                                         </td>
                                                                                                                         </tr>
                                                                                                                         <tr>
                                                                                                                         <td style="text-align:left;">
 
-                                                                                                                        -   Private
-                                                                                                                            housing
+                                                                                                                        -   Others
                                                                                                                             </td>
                                                                                                                             <td style="text-align:left;">
-                                                                                                                            298
-                                                                                                                            (28.2%)
+                                                                                                                            24
+                                                                                                                            (2.3%)
                                                                                                                             </td>
                                                                                                                             </tr>
                                                                                                                             <tr>
                                                                                                                             <td style="text-align:left;">
 
-                                                                                                                            -   Others
+                                                                                                                            -   Do
+                                                                                                                                not
+                                                                                                                                know
                                                                                                                                 </td>
                                                                                                                                 <td style="text-align:left;">
-                                                                                                                                25
-                                                                                                                                (2.4%)
+                                                                                                                                3
+                                                                                                                                (0.3%)
                                                                                                                                 </td>
                                                                                                                                 </tr>
                                                                                                                                 <tr>
                                                                                                                                 <td style="text-align:left;">
 
-                                                                                                                                -   Do
+                                                                                                                                -   Prefer
                                                                                                                                     not
-                                                                                                                                    know
+                                                                                                                                    to
+                                                                                                                                    say
                                                                                                                                     </td>
                                                                                                                                     <td style="text-align:left;">
-                                                                                                                                    3
-                                                                                                                                    (0.3%)
+                                                                                                                                    28
+                                                                                                                                    (2.7%)
+                                                                                                                                    </td>
+                                                                                                                                    </tr>
+                                                                                                                                    <tr>
+                                                                                                                                    <td style="text-align:left;">
+                                                                                                                                    income
+                                                                                                                                    </td>
+                                                                                                                                    <td style="text-align:left;">
                                                                                                                                     </td>
                                                                                                                                     </tr>
                                                                                                                                     <tr>
                                                                                                                                     <td style="text-align:left;">
 
-                                                                                                                                    -   Prefer
-                                                                                                                                        not
-                                                                                                                                        to
-                                                                                                                                        say
+                                                                                                                                    -   N-Miss
                                                                                                                                         </td>
                                                                                                                                         <td style="text-align:left;">
-                                                                                                                                        30
-                                                                                                                                        (2.8%)
-                                                                                                                                        </td>
-                                                                                                                                        </tr>
-                                                                                                                                        <tr>
-                                                                                                                                        <td style="text-align:left;">
-                                                                                                                                        income
-                                                                                                                                        </td>
-                                                                                                                                        <td style="text-align:left;">
+                                                                                                                                        7
                                                                                                                                         </td>
                                                                                                                                         </tr>
                                                                                                                                         <tr>
                                                                                                                                         <td style="text-align:left;">
 
-                                                                                                                                        -   N-Miss
+                                                                                                                                        -   \<
+                                                                                                                                            $2,000
                                                                                                                                             </td>
                                                                                                                                             <td style="text-align:left;">
-                                                                                                                                            10
+                                                                                                                                            96
+                                                                                                                                            (9.4%)
                                                                                                                                             </td>
                                                                                                                                             </tr>
                                                                                                                                             <tr>
                                                                                                                                             <td style="text-align:left;">
 
-                                                                                                                                            -   \<
-                                                                                                                                                $2,000
+                                                                                                                                            -   $2,000 -
+                                                                                                                                                $3,999
                                                                                                                                                 </td>
                                                                                                                                                 <td style="text-align:left;">
-                                                                                                                                                100
-                                                                                                                                                (9.5%)
+                                                                                                                                                149
+                                                                                                                                                (14.5%)
                                                                                                                                                 </td>
                                                                                                                                                 </tr>
                                                                                                                                                 <tr>
                                                                                                                                                 <td style="text-align:left;">
 
-                                                                                                                                                -   $2,000 -
-                                                                                                                                                    $3,999
+                                                                                                                                                -   $4,000 -
+                                                                                                                                                    $5,999
                                                                                                                                                     </td>
                                                                                                                                                     <td style="text-align:left;">
-                                                                                                                                                    152
-                                                                                                                                                    (14.5%)
+                                                                                                                                                    156
+                                                                                                                                                    (15.2%)
                                                                                                                                                     </td>
                                                                                                                                                     </tr>
                                                                                                                                                     <tr>
                                                                                                                                                     <td style="text-align:left;">
 
-                                                                                                                                                    -   $4,000 -
-                                                                                                                                                        $5,999
+                                                                                                                                                    -   $6,000 -
+                                                                                                                                                        $10,000
                                                                                                                                                         </td>
                                                                                                                                                         <td style="text-align:left;">
-                                                                                                                                                        158
-                                                                                                                                                        (15.0%)
+                                                                                                                                                        174
+                                                                                                                                                        (17.0%)
                                                                                                                                                         </td>
                                                                                                                                                         </tr>
                                                                                                                                                         <tr>
                                                                                                                                                         <td style="text-align:left;">
 
-                                                                                                                                                        -   $6,000 -
+                                                                                                                                                        -   \>
                                                                                                                                                             $10,000
                                                                                                                                                             </td>
                                                                                                                                                             <td style="text-align:left;">
-                                                                                                                                                            178
-                                                                                                                                                            (17.0%)
+                                                                                                                                                            233
+                                                                                                                                                            (22.7%)
                                                                                                                                                             </td>
                                                                                                                                                             </tr>
                                                                                                                                                             <tr>
                                                                                                                                                             <td style="text-align:left;">
 
-                                                                                                                                                            -   \>
-                                                                                                                                                                $10,000
+                                                                                                                                                            -   Prefer
+                                                                                                                                                                not
+                                                                                                                                                                to
+                                                                                                                                                                say
                                                                                                                                                                 </td>
                                                                                                                                                                 <td style="text-align:left;">
-                                                                                                                                                                236
-                                                                                                                                                                (22.5%)
+                                                                                                                                                                217
+                                                                                                                                                                (21.2%)
                                                                                                                                                                 </td>
                                                                                                                                                                 </tr>
-                                                                                                                                                                <tr>
-                                                                                                                                                                <td style="text-align:left;">
-
-                                                                                                                                                                -   Prefer
-                                                                                                                                                                    not
-                                                                                                                                                                    to
-                                                                                                                                                                    say
-                                                                                                                                                                    </td>
-                                                                                                                                                                    <td style="text-align:left;">
-                                                                                                                                                                    226
-                                                                                                                                                                    (21.5%)
-                                                                                                                                                                    </td>
-                                                                                                                                                                    </tr>
-                                                                                                                                                                    </tbody>
-                                                                                                                                                                    </table>
+                                                                                                                                                                </tbody>
+                                                                                                                                                                </table>
