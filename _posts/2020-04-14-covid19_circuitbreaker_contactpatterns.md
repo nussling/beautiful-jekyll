@@ -186,7 +186,7 @@ Men in all age groups tended to visit parks and food retailers
 supermarkets/grocery stores/wet markets) more commonly than women
 (Figure 1).
 
-<p><img src="/assets/2020-04-14-covid19_circuitbreaker_contactpatterns_files/figure-markdown_github/unnamed-chunk-4-1.png" alt="Location visits" /><figcaption>Figure 1: Percentage of male and female respondents visiting different locations by number of visits in the past week. Darker shading indicates a higher number of participants</figcaption></p>
+<p><img src="/assets/2020-04-14-covid19_circuitbreaker_contactpatterns_files/figure-markdown_github/unnamed-chunk-4-1.png" alt="Location visits" /><figcaption>Figure 1: Percentage of male and female respondents visiting different locations by number of visits in the past week. Darker shading indicates a higher percentage of participants</figcaption></p>
 
 For visits to food retailers, we did not specifically ask whether food
 was consumed within the premises.
@@ -486,7 +486,7 @@ Participation
 -------------
 
 A total of 1067 completed surveys were collected. Survey completion was
-XX% (based on the number of completed surveys out of users who initiated
+80.1% (based on the number of completed surveys out of users who initiated
 the survey).
 
 Respondents who reported not currently residing in Singapore (n = 7) and
